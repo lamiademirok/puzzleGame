@@ -1,0 +1,39 @@
+body{
+  text-align:center;
+  margin: auto;
+  font-family: "Candara Light",sans-serif;
+  font-size:30px;
+  line-height:0.5;
+  background-color: #bec8d7;
+  color: #373738;
+  cursor:default;
+
+}
+h1:hover{
+  text-decoration: underline;
+}
+table{
+  border-collapse: collapse;
+  margin: auto;
+  border: 2px solid #373738;
+  box-shadow: 5px 5px #373738;
+}
+img{
+  height:11vw;
+}
+p{
+  font-size:17px;
+  font-weight:bolder;
+}
+footer p{
+  font-size:12px;
+}
+button{
+  background-color:#373738;
+  color:#bec8d7;
+  border:none;
+  transition:0.5s;
+}
+button:hover{
+  opacity:0.7;
+}
